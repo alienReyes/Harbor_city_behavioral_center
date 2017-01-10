@@ -15,10 +15,19 @@ var compass = require('gulp-compass');
 var mainBowerFiles=require('main-bower-files');
 var filter = require('gulp-filter');
 var concat = require('gulp-concat');
+var gutil = require('gulp-util');
+var gulp = require('gulp');
+var debug = require('gulp-debug');
+var jsonminify = require('gulp-jsonminify');
+var wiredep= require ('gulp-wiredep');
+var flatten = require('gulp-flatten');
+
+var config = { 
+    bowerDir: 'bower_components/'
+};
+
 // Basic Gulp task syntax
-gulp.task('hello', function() {
-  console.log('Hello Zell!');
-})
+
 
 // Development Tasks
 // -----------------
@@ -27,20 +36,42 @@ gulp.task('hello', function() {
 gulp.task('browserSync', function() {
   browserSync({
     server: {
-      baseDir: 'app'
+      baseDir: 'app',
+      routes: {
+      '/bower_components': 'bower_components'
     }
+    }
+
   })
 })
 
+//JS
+
 gulp.task('js', function() {
-	return gulp.src(mainBowerFiles(/* options */), { base: '/bower_components' })
-		.pipe(filter('*.js'))
-		.pipe(concat('components.js'))
-		.pipe(gulp.dest('app/js'));
+  	return gulp.src(mainBowerFiles(/* options */))
+		.pipe(filter('**/*.js'))
+		.pipe(gulp.dest('app/js/'));
+
 });
 
+// CSS user ef
+gulp.task('css', function() {
+	return gulp.src(mainBowerFiles(/* options */))
+		.pipe(filter('*.css'))
+    .pipe(debug({title: 'unicorn:'}))
+		.pipe(concat('app/css/components.css'))
+		.pipe(gulp.dest('app/css'));
+});
 
-
+gulp.task('wiredep', function () {
+  var wiredep = require('wiredep').stream;
+  gulp.src('app/*.html')
+  .pipe(debug({title:"wire dep"}))
+    .pipe(wiredep({
+      'ignorePath': '../'
+    }))
+    .pipe(gulp.dest('app'));
+});
 
 
 gulp.task('compass', function () {
@@ -52,6 +83,7 @@ gulp.task('compass', function () {
                 style: 'expanded',
                 require: ['susy', 'breakpoint']
             }))
+            .on('error', gutil.log)
         //.pipe(gulp.dest( outputDir + 'css'))
         .pipe(browserSync.reload({ // Reloading with Browser Sync
           stream: true
@@ -67,6 +99,7 @@ gulp.task('watch', function() {
   gulp.watch('app/scss/**/*.scss', ['compass']);
   gulp.watch('app/*.html', browserSync.reload);
   gulp.watch('app/js/**/*.js', browserSync.reload);
+  gulp.watch('app/js/*.json', browserSync.reload);
 })
 
 // Optimization Tasks
@@ -75,9 +108,11 @@ gulp.task('watch', function() {
 // Optimizing CSS and JavaScript
 gulp.task('useref', function() {
   return gulp.src('app/*.html')
-    .pipe(useref())
+    .pipe(useref({
+      'searchPath':['./', 'bower_components/*','./app/']
+    }))
     .pipe(gulpIf('*.js', uglify()))
-    .pipe(gulpIf('*.css', cssnano()))
+  //  .pipe(gulpIf('*.css', cssnano()))
     .pipe(gulp.dest('dist'));
 });
 
@@ -85,17 +120,43 @@ gulp.task('useref', function() {
 gulp.task('images', function() {
   return gulp.src('app/images/**/*.+(png|jpg|jpeg|gif|svg)')
     // Caching images that ran through imagemin
-    .pipe(cache(imagemin({
-      interlaced: true,
-    })))
+
+    .pipe(debug({title: 'unicorn:'}))
     .pipe(gulp.dest('dist/images'))
 });
 
-// Copying fonts
+// Copying user fonts
 gulp.task('fonts', function() {
-  return gulp.src('app/fonts/**/*')
+  return gulp.src(['app/fonts/**/*'])
     .pipe(gulp.dest('dist/fonts'))
 })
+//icons
+gulp.task('icons', function () { 
+    return gulp.src('bower_components/*/fonts/*.{ttf,woff,eof,svg}') 
+    .pipe(flatten())
+    .pipe(debug({title: 'unicorn:'}))
+        .pipe(gulp.dest('dist/fonts/')); 
+
+});
+
+
+
+
+
+// Copyinh and minimizing JSON
+gulp.task('jsonCopy', function() {
+  return gulp.src('app/js/*.json')
+    .pipe(jsonminify())
+    .pipe(gulp.dest('dist/js/'))
+}),
+gulp.task('kcssCopy', function() {
+  return gulp.src('app/css/kaltura-custom.css')
+    .pipe(gulp.dest('dist/css/'))
+}),
+gulp.task('kjsCopy', function() {
+  return gulp.src('app/js/kaltura-custom.js')
+    .pipe(gulp.dest('dist/js/'))
+}),
 
 // Cleaning
 gulp.task('clean', function() {
@@ -120,7 +181,7 @@ gulp.task('default', function(callback) {
 gulp.task('build', function(callback) {
   runSequence(
     'clean:dist',
-    ['compass', 'useref', 'images', 'fonts'],
+    ['compass','jsonCopy','kcssCopy','kjsCopy', 'useref', 'images', 'icons','fonts'],
     callback
   )
 })
