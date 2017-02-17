@@ -1,0 +1,50 @@
+
+
+{
+  "videoPath": "video/",
+  "docPAth":"docs/",
+  "markers":
+  [
+    {
+      "id":"healthCenter",
+      "type":"list",
+      "xPos":"1824",
+      "yPos":"900",
+      "title":"Behavioral Health Center",
+      "items":[
+        {
+          "name": "Health Center Brochure",
+          "type": "document",
+            "url": "HCBHC_BROCHURE.pdf"
+        },
+        {
+          "name": "Organizational Chart",
+          "type": "link",
+          "iframe":"true",
+          "url": "org_chart.html"
+        },
+        {
+          "name": "Corporate Policy",
+          "type": "document",
+                    "url": "HCBH_corporate_policy.pdf"
+        },
+        {
+          "name": "Summary Report",
+          "type": "document",
+          "url": "HCBH_anual_report.pdf"
+        },
+        {
+          "name": "Directors Memo",
+          "type": "document",
+          "url": "directors_memo.pdf"
+        },
+        {
+          "name": "Strategic Plan Template",
+          "type": "document",
+          "url": "HCBH_strategic_plan.pdf"
+        }
+
+      ]
+    }
+  ]
+}

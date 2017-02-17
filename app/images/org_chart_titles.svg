@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1054 322" style="enable-background:new 0 0 1054 322;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0075FF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{opacity:0.2;enable-background:new    ;}
+	.st2{fill:#E64030;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'RobotoCondensed-Regular';}
+	.st5{font-size:10.0047px;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:10;}
+	.st7{fill:#003B80;}
+	.st8{font-size:8px;}
+	.st9{fill:none;}
+	.st10{fill:#0075FF;}
+	.st11{display:none;}
+	.st12{display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<rect x="-47.1" y="-14.5" class="st0" width="1429" height="523"/>
+<g id="Layer_2">
+</g>
+<g id="orgchart" inkscape:version="0.91 r13725" sodipodi:docname="org_chart_grouped.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	
+		<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview5057" inkscape:current-layer="orgchart" inkscape:cx="631.69321" inkscape:cy="165.63991" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1284" inkscape:window-maximized="0" inkscape:window-width="2043" inkscape:window-x="2680" inkscape:window-y="22" inkscape:zoom="2.2637571" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+		</sodipodi:namedview>
+	<g id="executiveDirector">
+		<rect id="rect4504" x="468.2" y="16.3" class="st1" width="112" height="33.1"/>
+		<rect id="rect4506" x="465.7" y="13" class="st2" width="112" height="33.1"/>
+		<text id="text4508" transform="matrix(1 0 0 1 480.8403 26.5605)" class="st3 st4 st5">Executive Director of </text>
+		<text id="text4510" transform="matrix(1 0 0 1 469.1403 38.5605)" class="st3 st4 st5">Behavioral Health Services</text>
+	</g>
+	<g id="clinical_x5F_services">
+		<rect id="outline" x="6.4" y="98.3" class="st0" width="150.8" height="210.5"/>
+		<g id="lines_1_">
+			<rect id="rect4514" x="69.6" y="176.1" class="st3" width="44" height="0.3"/>
+			<rect id="rect4516" x="69.6" y="207.1" class="st3" width="44" height="0.3"/>
+			<rect id="rect4518" x="69.6" y="247" class="st3" width="44" height="0.3"/>
+			<line id="line4520" class="st6" x1="81" y1="154" x2="81" y2="247.1"/>
+		</g>
+		<g id="group_x5F_title">
+			<rect id="rect4523" x="28.1" y="125.2" class="st1" width="112" height="33.1"/>
+			<rect id="rect4525" x="25.6" y="121.9" width="112" height="33.1"/>
+			<text id="text4527" transform="matrix(1 0 0 1 36.5273 135.4512)" class="st3 st4 st5">Adult Clinical Services </text>
+			<text id="text4529" transform="matrix(1 0 0 1 33.3273 147.4512)" class="st3 st4 st5">&amp; Mental Health Director</text>
+		</g>
+		<g id="g4531">
+			<rect id="rect4533" x="15.1" y="168.8" class="st1" width="60.5" height="16.6"/>
+			<rect id="rect4535" x="13.8" y="168.8" class="st3" width="60.5" height="14.8"/>
+			<g id="g4537">
+				<text id="text4539" transform="matrix(1 0 0 1 22.1579 177.7776)" class="st7 st4 st8"> Psychologist</text>
+			</g>
+		</g>
+		<g id="g4541">
+			<g id="g4543">
+				<rect id="rect4545" x="15.5" y="198.4" class="st1" width="60.5" height="25.9"/>
+				<rect id="rect4547" x="13.8" y="196.1" class="st3" width="60.5" height="25.9"/>
+			</g>
+			<g id="g4549">
+				<text id="text4551" transform="matrix(1 0 0 1 22.9715 206.3234)" class="st7 st4 st8">Professional</text>
+				<text id="text4553" transform="matrix(1 0 0 1 25.0715 214.3234)" class="st7 st4 st8">Counselors</text>
+			</g>
+		</g>
+		<g id="g4555">
+			<g id="g4557">
+				<rect id="rect4559" x="15.5" y="236.7" class="st1" width="60.5" height="25.9"/>
+				<rect id="rect4561" x="13.8" y="234.3" class="st3" width="60.5" height="25.9"/>
+			</g>
+			<g id="g4563">
+				<rect id="rect4565" x="16.5" y="242.6" class="st9" width="55.1" height="19.3"/>
+				<text id="text4567" transform="matrix(1 0 0 1 27.0483 248.6184)" class="st7 st4 st8">Physicians</text>
+			</g>
+		</g>
+		<g id="g4569">
+			<g id="g4571">
+				<rect id="rect4573" x="90.1" y="236.7" class="st1" width="60.5" height="25.9"/>
+				<rect id="rect4575" x="88.4" y="234.3" class="st3" width="60.5" height="25.9"/>
+			</g>
+			<rect id="rect4579" x="91.3" y="238" class="st9" width="55.1" height="23.3"/>
+			<text id="text4581" transform="matrix(1 0 0 1 104.3553 247.5502)" class="st7 st4 st8">Nurses</text>
+		</g>
+		<g id="social_x5F_work">
+			<rect id="rect4586" x="92.7" y="198.6" class="st1" width="60.5" height="25.9"/>
+			<rect id="rect4588" x="91" y="196.2" class="st3" width="60.5" height="25.9"/>
+			<g id="social_work_team">
+				<text id="text4591" transform="matrix(1 0 0 1 101.1389 206.3234)" class="st7 st4 st8">Social Work</text>
+				<text id="text4593" transform="matrix(1 0 0 1 110.9389 214.3234)" class="st7 st4 st8">Team</text>
+			</g>
+		</g>
+		<g id="g4595">
+			<rect id="rect4597" x="91.7" y="168.8" class="st1" width="60.5" height="16.6"/>
+			<rect id="rect4599" x="90.4" y="168.8" class="st3" width="60.5" height="14.8"/>
+			<g id="g4601">
+				<text id="text4603" transform="matrix(1 0 0 1 97.7567 177.7776)" class="st7 st4 st8"> Psychiatrists</text>
+			</g>
+		</g>
+		<g id="title">
+			<rect id="rect4607_1_" x="17.5" y="84.8" class="st1" width="124.6" height="28.9"/>
+			<rect id="rect4607" x="15.5" y="82.8" class="st2" width="124.6" height="28.9"/>
+			<g id="g4609">
+				<text id="text4611" transform="matrix(1 0 0 1 33.6298 94.6292)" class="st3 st4 st5">Adult Clinical Services </text>
+				<text id="text4613" transform="matrix(1 0 0 1 15.0298 106.6292)" class="st3 st4 st5"> and Mental Health Department </text>
+			</g>
+		</g>
+	</g>
+	<g id="g4615">
+		<rect id="outline_1_" x="181.6" y="98.3" class="st0" width="150.8" height="210.5"/>
+		<g id="lines_2_">
+			<line id="line4618" class="st6" x1="254" y1="144" x2="254" y2="233"/>
+			<line id="line4620" class="st6" x1="245" y1="185" x2="263" y2="185"/>
+		</g>
+		<g id="g4622">
+			<g id="g4624">
+				<rect id="rect4626" x="190.7" y="171.6" class="st1" width="60.5" height="28.7"/>
+				<rect id="rect4628" x="189" y="169" class="st3" width="60.5" height="28.7"/>
+			</g>
+			<g id="g4630">
+				<rect id="rect4632" x="188" y="170" class="st9" width="58.8" height="26"/>
+				<text id="text4634" transform="matrix(1 0 0 1 203.11 175.9999)" class="st7 st4 st8">Business </text>
+				<text id="text4636" transform="matrix(1 0 0 1 200.21 185.5999)" class="st7 st4 st8">Operations </text>
+				<text id="text4638" transform="matrix(1 0 0 1 200.71 195.1999)" class="st7 st4 st8">Supervisor</text>
+			</g>
+		</g>
+		<g id="g4640">
+			<g id="g4642">
+				<rect id="rect4644" x="259.8" y="171.6" class="st1" width="64.2" height="28.7"/>
+				<rect id="rect4646" x="258" y="169" class="st3" width="64.2" height="28.7"/>
+			</g>
+			<g id="g4648">
+				<rect id="rect4650" x="257" y="170" class="st9" width="65" height="26"/>
+				<text id="text4652" transform="matrix(1 0 0 1 259.4045 175.9999)" class="st7 st4 st8">Accounts Payables  </text>
+				<text id="text4654" transform="matrix(1 0 0 1 269.2045 185.5999)" class="st7 st4 st8">/Receivables </text>
+				<text id="text4656" transform="matrix(1 0 0 1 272.8045 195.1999)" class="st7 st4 st8">Supervisor</text>
+			</g>
+		</g>
+		<g id="g4658">
+			<g id="g4660">
+				<g id="g4662">
+					<rect id="rect4664" x="227.7" y="231.6" class="st1" width="60.5" height="31.9"/>
+					<rect id="rect4666" x="226" y="229.2" class="st3" width="60.5" height="31.9"/>
+				</g>
+				<g id="g4668">
+					<rect id="rect4670" x="228.7" y="231.5" class="st9" width="55.1" height="27.9"/>
+					<text id="text4672" transform="matrix(1 0 0 1 230.0212 237.5395)" class="st7 st4 st8">Medical Records </text>
+					<text id="text4674" transform="matrix(1 0 0 1 234.5212 245.5395)" class="st7 st4 st8">and Expenses </text>
+					<text id="text4676" transform="matrix(1 0 0 1 244.5212 253.5395)" class="st7 st4 st8">Analyst</text>
+				</g>
+			</g>
+		</g>
+		<g id="director">
+			<rect id="rect4680" x="203.3" y="125.2" class="st1" width="112" height="25.1"/>
+			<rect id="rect4682" x="200.8" y="121.9" width="112" height="25.1"/>
+			<text id="text4684" transform="matrix(1 0 0 1 222.2194 137.4512)" class="st3 st4 st5">Financial Director</text>
+		</g>
+		<g id="title_1_">
+			<g id="title_6_" class="st1">
+				<rect id="rect4687_1_" x="210.3" y="87" width="90.9" height="23.5"/>
+			</g>
+			<rect id="rect4687" x="208.3" y="86.3" class="st10" width="91.4" height="22.2"/>
+			<g id="g4689">
+				<text id="text4691" transform="matrix(1 0 0 1 215.3422 99.3834)" class="st3 st4 st5">Finance Department</text>
+			</g>
+		</g>
+	</g>
+	<g id="g4693">
+		<g id="g4695">
+			<rect id="rect4697" x="590.7" y="44.3" class="st1" width="60.5" height="25.9"/>
+			<rect id="rect4699" x="589" y="41.9" class="st3" width="60.5" height="25.9"/>
+		</g>
+		<g id="g4701">
+			<rect id="rect4703" x="591.7" y="43.2" class="st9" width="55.1" height="23.8"/>
+			<text id="text4705" transform="matrix(1 0 0 1 604.1505 49.2114)" class="st7 st4 st8">Executive </text>
+			<text id="text4707" transform="matrix(1 0 0 1 596.3505 57.2114)" class="st7 st4 st8">Administrative  </text>
+			<text id="text4709" transform="matrix(1 0 0 1 604.3505 65.2114)" class="st7 st4 st8">Assistant</text>
+		</g>
+	</g>
+	<g id="g4711">
+		<rect id="outline_2_" x="356.9" y="98.3" class="st0" width="150.8" height="210.5"/>
+		<g id="lines_3_">
+			<line id="line4714" class="st6" x1="429" y1="145" x2="429" y2="220"/>
+			<line id="line4716" class="st6" x1="415" y1="182" x2="439" y2="182"/>
+			<line id="line4718" class="st6" x1="415" y1="220" x2="439" y2="220"/>
+		</g>
+		<g id="director_1_">
+			<rect id="rect4721" x="378.6" y="125.2" class="st1" width="112" height="25.1"/>
+			<rect id="rect4723" x="376.1" y="121.9" width="112" height="25.1"/>
+			<text id="text4725" transform="matrix(1 0 0 1 411.3969 137.4512)" class="st3 st4 st5">IT Director</text>
+		</g>
+		<g id="g4727">
+			<g id="g4729">
+				<rect id="rect4731" x="364" y="208.3" class="st1" width="60.5" height="34.7"/>
+				<rect id="rect4733" x="362.3" y="205.1" class="st3" width="60.5" height="34.7"/>
+			</g>
+			<g id="g4735">
+				<rect id="rect4737" x="359" y="208.4" class="st9" width="66.1" height="30.6"/>
+				<text id="text4739" transform="matrix(1 0 0 1 373.6474 214.4071)" class="st7 st4 st8">Information  </text>
+				<text id="text4741" transform="matrix(1 0 0 1 378.5474 224.0071)" class="st7 st4 st8">Systems  </text>
+				<text id="text4743" transform="matrix(1 0 0 1 374.8474 233.6071)" class="st7 st4 st8">Technician</text>
+			</g>
+		</g>
+		<g id="g4745">
+			<g id="g4747">
+				<rect id="rect4749" x="437.8" y="171.5" class="st1" width="61.5" height="25.9"/>
+				<rect id="rect4751" x="436.1" y="169.1" class="st3" width="61.5" height="25.9"/>
+			</g>
+			<g id="g4753">
+				<rect id="rect4755" x="438.6" y="173.5" class="st9" width="56" height="21.5"/>
+				<text id="text4757" transform="matrix(1 0 0 1 448.2027 179.466)" class="st7 st4 st8">Information </text>
+				<text id="text4759" transform="matrix(1 0 0 1 440.5027 187.466)" class="st7 st4 st8">Systems Analyst</text>
+			</g>
+		</g>
+		<g id="g4761">
+			<g id="g4763">
+				<g id="g4765">
+					<rect id="rect4767" x="363" y="171.6" class="st1" width="60.5" height="21.9"/>
+					<rect id="rect4769" x="361.3" y="169.2" class="st3" width="60.5" height="21.9"/>
+				</g>
+				<g id="g4771">
+					<rect id="rect4773" x="364" y="175.5" class="st9" width="55.1" height="8.6"/>
+					<text id="text4775" transform="matrix(1 0 0 1 364.663 181.5395)" class="st7 st4 st8">Data Coordinator</text>
+				</g>
+			</g>
+		</g>
+		<g id="g4777">
+			<g id="g4779">
+				<g id="g4781">
+					<rect id="rect4783" x="439.3" y="207.6" class="st1" width="60.5" height="21.9"/>
+					<rect id="rect4785" x="437.6" y="205.2" class="st3" width="60.5" height="21.9"/>
+				</g>
+				<g id="g4787">
+					<rect id="rect4789" x="440.3" y="208.5" class="st9" width="55.1" height="17.9"/>
+					<text id="text4791" transform="matrix(1 0 0 1 440.3061 214.5395)" class="st7 st4 st8">Network Systems </text>
+					<text id="text4793" transform="matrix(1 0 0 1 456.1061 222.5395)" class="st7 st4 st8">Analyst</text>
+				</g>
+			</g>
+		</g>
+		<g id="title_2_">
+			<g id="g4799">
+				<g id="title_7_" class="st1">
+					<rect id="rect4687_3_" x="387.7" y="87" width="90.9" height="23.5"/>
+				</g>
+				<rect id="rect4687_2_" x="385.7" y="86.3" class="st10" width="91.4" height="22.2"/>
+				<text id="text4801" transform="matrix(1 0 0 1 399.9749 102.6292)" class="st3 st4 st5">IT Department</text>
+			</g>
+		</g>
+	</g>
+	<g id="g4803">
+		<rect id="outline_3_" x="532.1" y="98.3" class="st0" width="150.8" height="210.5"/>
+		<g id="lines_4_">
+			<line id="line4806" class="st6" x1="606.5" y1="143.5" x2="606.5" y2="254.3"/>
+			<line id="line4808" class="st6" x1="592" y1="181" x2="622" y2="181"/>
+			<line id="line4810" class="st6" x1="592" y1="219" x2="622" y2="219"/>
+		</g>
+		<g id="director_2_">
+			<rect id="rect4813" x="553.9" y="125.2" class="st1" width="116.1" height="25.1"/>
+			<rect id="rect4815" x="551.3" y="121.9" width="116.1" height="25.1"/>
+			<text id="text4817" transform="matrix(1 0 0 1 555.3409 137.4512)" class="st3 st4 st5">Director of Human Services</text>
+		</g>
+		<g id="g4819">
+			<g id="g4821">
+				<g id="g4823">
+					<rect id="rect4825" x="541.1" y="208.6" class="st1" width="60.5" height="29.9"/>
+					<rect id="rect4827" x="539.4" y="206.2" class="st3" width="60.5" height="29.9"/>
+				</g>
+				<g id="g4829">
+					<rect id="rect4831" x="539.4" y="208.2" class="st9" width="60.5" height="25.1"/>
+					<text id="text4833" transform="matrix(1 0 0 1 556.8772 214.2242)" class="st7 st4 st8">Building </text>
+					<text id="text4835" transform="matrix(1 0 0 1 542.5772 222.2242)" class="st7 st4 st8">Maintenance and </text>
+					<text id="text4837" transform="matrix(1 0 0 1 548.1772 230.2242)" class="st7 st4 st8">Safety Officer</text>
+				</g>
+			</g>
+		</g>
+		<g id="g4839">
+			<g id="g4841">
+				<g id="g4843">
+					<rect id="rect4845" x="613.1" y="209.6" class="st1" width="60.5" height="29.9"/>
+					<rect id="rect4847" x="611.4" y="207.2" class="st3" width="60.5" height="29.9"/>
+				</g>
+				<g id="g4849">
+					<rect id="rect4851" x="611.4" y="209.2" class="st9" width="60.5" height="25.1"/>
+					<text id="text4853" transform="matrix(1 0 0 1 625.6526 215.2242)" class="st7 st4 st8">Training &amp; </text>
+					<text id="text4855" transform="matrix(1 0 0 1 620.9526 223.2242)" class="st7 st4 st8">Development </text>
+					<text id="text4857" transform="matrix(1 0 0 1 622.9526 231.2242)" class="st7 st4 st8">Coordinator</text>
+				</g>
+			</g>
+		</g>
+		<g id="g4867">
+			<g id="g4869">
+				<rect id="rect4871" x="613" y="171.5" class="st1" width="61.5" height="25.9"/>
+				<rect id="rect4873" x="611.3" y="169.1" class="st3" width="61.5" height="25.9"/>
+			</g>
+			<g id="g4875">
+				<rect id="rect4877" x="613.8" y="178.5" class="st9" width="56" height="21.5"/>
+				<text id="text4879" transform="matrix(1 0 0 1 618.3295 184.466)" class="st7 st4 st8">Payroll Analyst</text>
+			</g>
+		</g>
+		<g id="g4881">
+			<g id="g4883">
+				<g id="g4885">
+					<rect id="rect4887" x="541.5" y="171.6" class="st1" width="60.5" height="24.9"/>
+					<rect id="rect4889" x="539.8" y="169.2" class="st3" width="60.5" height="24.9"/>
+				</g>
+				<g id="g4891">
+					<rect id="rect4893" x="539.8" y="174.2" class="st9" width="60.5" height="19.2"/>
+					<text id="text4895" transform="matrix(1 0 0 1 550.9836 180.2242)" class="st7 st4 st8">Recruitment </text>
+					<text id="text4897" transform="matrix(1 0 0 1 554.6836 188.2242)" class="st7 st4 st8">Specialist</text>
+				</g>
+			</g>
+		</g>
+		<g id="g4899">
+			<g id="g4901">
+				<g id="g4903">
+					<rect id="rect4905" x="577.5" y="253.9" class="st1" width="60.5" height="19.9"/>
+					<rect id="rect4907" x="575.8" y="251.5" class="st3" width="60.5" height="19.9"/>
+				</g>
+				<g id="g4909">
+					<rect id="rect4911" x="575.8" y="256.3" class="st9" width="60.5" height="10.3"/>
+					<text id="text4913" transform="matrix(1 0 0 1 590.1105 262.3078)" class="st7 st4 st8">Custodian</text>
+				</g>
+			</g>
+		</g>
+		<g id="title_3_">
+			<g id="g4799_1_">
+				<g id="title_8_" class="st1">
+					<rect id="rect4687_5_" x="560.9" y="87" width="90.9" height="23.5"/>
+				</g>
+				<rect id="rect4687_4_" x="558.9" y="86.3" class="st10" width="91.4" height="22.2"/>
+				<text id="text4801_1_" transform="matrix(1 0 0 1 570.1749 101.6292)" class="st3 st4 st5">Human Resources</text>
+			</g>
+		</g>
+	</g>
+	<g id="g4915">
+		<rect id="outline_4_" x="707.4" y="98.3" class="st0" width="150.8" height="210.5"/>
+		<g id="lines_5_">
+			<line id="line4918" class="st6" x1="780" y1="156" x2="780" y2="218"/>
+			<line id="line4920" class="st6" x1="760" y1="179" x2="797" y2="179"/>
+			<line id="line4922" class="st6" x1="760" y1="218" x2="797" y2="218"/>
+		</g>
+		<g id="director_3_">
+			<rect id="rect4925" x="723.8" y="125.2" class="st1" width="112" height="33.1"/>
+			<rect id="rect4927" x="721.3" y="121.9" width="112" height="33.1"/>
+			<text id="text4929" transform="matrix(1 0 0 1 740.2512 135.4512)" class="st3 st4 st5">Community-Based  </text>
+			<text id="text4931" transform="matrix(1 0 0 1 743.7512 147.4512)" class="st3 st4 st5">Services Director</text>
+		</g>
+		<g id="g4933">
+			<g id="g4935">
+				<g id="g4937">
+					<rect id="rect4939" x="714.3" y="205.6" class="st1" width="60.5" height="29.9"/>
+					<rect id="rect4941" x="712.6" y="203.2" class="st3" width="60.5" height="29.9"/>
+				</g>
+				<g id="g4943">
+					<rect id="rect4945" x="712.6" y="206.2" class="st9" width="60.5" height="25.1"/>
+					<text id="text4947" transform="matrix(1 0 0 1 724.9511 212.2242)" class="st7 st4 st8">Community </text>
+					<text id="text4949" transform="matrix(1 0 0 1 726.3511 219.2242)" class="st7 st4 st8">Resources  </text>
+					<text id="text4951" transform="matrix(1 0 0 1 727.4511 226.2242)" class="st7 st4 st8">Specialist </text>
+				</g>
+			</g>
+		</g>
+		<g id="g4953">
+			<g id="g4955">
+				<g id="g4957">
+					<rect id="rect4959" x="788.9" y="205.6" class="st1" width="60.5" height="29.9"/>
+					<rect id="rect4961" x="787.2" y="203.2" class="st3" width="60.5" height="29.9"/>
+				</g>
+				<g id="g4963">
+					<rect id="rect4965" x="787.2" y="206.2" class="st9" width="60.5" height="25.1"/>
+					<text id="text4967" transform="matrix(1 0 0 1 799.5462 212.2242)" class="st7 st4 st8">Community </text>
+					<text id="text4969" transform="matrix(1 0 0 1 803.2462 219.2242)" class="st7 st4 st8"> Services  </text>
+					<text id="text4971" transform="matrix(1 0 0 1 806.0462 226.2242)" class="st7 st4 st8">Liaison</text>
+				</g>
+			</g>
+		</g>
+		<g id="g4973">
+			<g id="g4975">
+				<g id="g4977">
+					<rect id="rect4979" x="714.3" y="166.1" class="st1" width="60.5" height="29.9"/>
+					<rect id="rect4981" x="712.6" y="163.7" class="st3" width="60.5" height="29.9"/>
+				</g>
+				<g id="g4983">
+					<rect id="rect4985" x="712.6" y="165.7" class="st9" width="60.5" height="25.1"/>
+					<text id="text4987" transform="matrix(1 0 0 1 722.2929 171.6942)" class="st7 st4 st8">Home Health </text>
+					<text id="text4989" transform="matrix(1 0 0 1 718.2929 179.6942)" class="st7 st4 st8"> Care Specialist </text>
+					<text id="text4991" transform="matrix(1 0 0 1 733.9929 187.6942)" class="st7 st4 st8">Team</text>
+				</g>
+			</g>
+		</g>
+		<g id="g4993">
+			<g id="g4995">
+				<g id="g4997">
+					<rect id="rect4999" x="788.9" y="166.1" class="st1" width="60.5" height="29.9"/>
+					<rect id="rect5001" x="787.2" y="163.7" class="st3" width="60.5" height="29.9"/>
+				</g>
+				<g id="g5003">
+					<rect id="rect5005" x="787.2" y="165.7" class="st9" width="60.5" height="27.9"/>
+					<text id="text5007" transform="matrix(1 0 0 1 799.5462 171.6942)" class="st7 st4 st8">Community </text>
+					<text id="text5009" transform="matrix(1 0 0 1 803.1462 178.6942)" class="st7 st4 st8">Outreach </text>
+					<text id="text5011" transform="matrix(1 0 0 1 797.9462 185.6942)" class="st7 st4 st8"> Coordinator</text>
+				</g>
+			</g>
+		</g>
+		<g id="title_9_">
+			<rect id="rect4607_3_" x="721.7" y="86.9" class="st1" width="124.6" height="28.9"/>
+			<rect id="rect4607_2_" x="719.7" y="84.9" class="st10" width="124.6" height="28.9"/>
+			<g id="g4609_1_">
+				<text id="text4611_1_" transform="matrix(1 0 0 1 727.8151 96.6993)" class="st3 st4 st5">Community-Based Services </text>
+				<text id="text4613_1_" transform="matrix(1 0 0 1 743.2151 107.6993)" class="st3 st4 st5"> Department (CBSD)</text>
+			</g>
+		</g>
+	</g>
+	<g id="regulatory">
+		<rect id="ouline" x="882.6" y="98.3" class="st0" width="150.8" height="210.5"/>
+		<g id="director_4_">
+			<rect id="rect5025" x="899" y="125.2" class="st1" width="112" height="33.1"/>
+			<rect id="rect5027" x="896.5" y="121.9" width="112" height="33.1"/>
+			<text id="text5029" transform="matrix(1 0 0 1 909.4463 135.4512)" class="st3 st4 st5">Director of Regulatory </text>
+			<text id="text5031" transform="matrix(1 0 0 1 906.2462 147.4512)" class="st3 st4 st5">Affairs and Compliance</text>
+		</g>
+		<g id="title_4_">
+			<rect id="rect4607_5_" x="896.7" y="87.2" class="st1" width="124.6" height="28.9"/>
+			<rect id="rect4607_4_" x="894.7" y="85.2" class="st10" width="124.6" height="28.9"/>
+			<g id="g4609_2_">
+				<text id="text4611_2_" transform="matrix(1 0 0 1 937.2806 96.9451)" class="st3 st4 st5">Regulatory  </text>
+				<text id="text4613_2_" transform="matrix(1 0 0 1 903.2297 107.9451)" class="st3 st4 st5">Affairs &amp; Compliance Office</text>
+			</g>
+		</g>
+	</g>
+	<g id="Layer_3">
+	</g>
+	<g id="conecttions" class="st11">
+		<polyline id="polyline5045" class="st12" points="521,48 521,75 75,75 75,84 		"/>
+		<polyline id="polyline5047" class="st12" points="521,75 958,75 958,84 		"/>
+		<line id="line5049" class="st12" x1="432.3" y1="75.8" x2="432.3" y2="83.5"/>
+		<line id="line5049_1_" class="st12" x1="255.7" y1="75.8" x2="255.7" y2="83.5"/>
+		<line id="line5051" class="st12" x1="605.3" y1="75.8" x2="605.3" y2="83.5"/>
+		<line id="line5053" class="st12" x1="783.3" y1="75.8" x2="783.3" y2="83.5"/>
+		<line id="line5055" class="st12" x1="521" y1="60" x2="589" y2="60"/>
+		<line id="line5049_2_" class="st12" x1="480.7" y1="209.8" x2="480.7" y2="217.5"/>
+	</g>
+</g>
+</svg>

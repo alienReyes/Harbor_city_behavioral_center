@@ -1,0 +1,148 @@
+#map {
+  width: 100%  ;
+  height:100%;
+}
+
+.main-title{
+  position: absolute;
+  top:0;
+  left:0;
+  width: 350px;
+  padding: 10px 0;
+  padding-left: 35px;
+  height: 4rem;
+  z-index: 1000;
+  background-color: $mainColor;
+  @include box-shadow( rgba(0, 0, 0, 0.3) -4px 3px 5px);
+  h1 {
+    font-family:$roboto;
+    color: #fff;
+    font-size: 2.6rem;
+    font-weight: normal;
+    text-transform: uppercase;;
+  }
+
+}
+
+
+
+
+
+
+.closeBtn {
+  position: absolute;
+  top:0;
+  right:0;
+  z-index: 4000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.pannel-side {
+  z-index: 500;
+  background: #fff;
+  width: 350px;
+  border-right: 1px solid $mainColor;
+  height: 100%;
+  position: absolute;
+  top: 4rem;
+  left: 0;
+  padding: 15px;
+  @include customTransition (transform, .5s, linear);
+  @include transform(translatex(0px));
+}
+
+.pannel-side__closed {
+    @include transform(translatex(-400px));
+}
+
+//accoerdion
+
+.card-header {
+  background: none;
+}
+.card {
+    border: none;
+    display: block;
+    position: relative;
+}
+
+//panel contents
+
+
+
+
+.items--list {
+  list-style: none;
+  padding-left: 10px;
+
+
+  .item {
+    list-style: none;
+    width: 100%;
+    display: inline-block;
+    height: 25px;
+    line-height: 25px;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+    svg {
+      width: 25px;
+      height: 25px;
+      float: left;
+      margin-right: 5px;
+      fill:$textColor;
+    }
+    p{
+      float: left;
+      font-family: $roboto;
+      font-style: 300;
+      font-size: 1.2rem;
+      line-height:25px;
+      color:$textColor;
+    }
+
+&:hover {
+  p{
+    color:$orgchartBlue;
+  }
+  svg {
+      fill:$orgchartBlue;
+  }
+
+
+
+}
+
+  }
+
+
+
+}
+
+
+
+//iframe
+
+
+.extContainer {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 100vh;
+width: 100%;
+background: #fff;
+  z-index: 500;
+  @include customTransition (top, .5s, linear);
+
+
+}

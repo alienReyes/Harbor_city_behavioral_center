@@ -1,0 +1,482 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="orgchart"   viewBox="0 0 1054 150">
+  <style>
+    .st0{opacity:0.2;enable-background:new ;} .st1{fill:#E64030;} .st2{fill:#FFFFFF;} .st3{font-family:'Roboto Condensed', sans-serif;} .st4{font-size:10.0047px;} .st5{fill:none;stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:10;} .st6{fill:#003B80;} .st7{font-size:8px;} .st8{fill:none;} .st9{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;} .st10{fill:#0075FF;}
+    .outline{fill:#0075FF;stroke:#FFFFFF;stroke-width:1; stroke-miterlimit:10;}
+
+  </style>
+
+  <defs>
+  <filter id="dropshadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offsetResult" in="SourceAlpha" dx="5" dy="5" />
+    <feGaussianBlur result="blurResult" in="offsetResult" stdDeviation="2" />
+    <feBlend in="SourceGraphic" in2="blurResult" mode="normal" />
+  </filter>
+   </defs>
+
+  <g data-url="#execDirector" class="jobRole">
+    <path d="M468.2 16.3h112v33.1h-112z" class="st0"/>
+    <path class="roleWrapper" d="M465.7 13h112v33.1h-112z" class="st1"/>
+    <text transform="translate(480.84 26.56)" class="st2 st3 st4">
+      Executive Director of
+    </text>
+    <text transform="translate(469.14 38.56)" class="st2 st3 st4">
+      Behavioral Health Services
+    </text>
+  </g>
+  <g id="clinical_x5F_services">
+    <path id="acsmhOutline" filter=""  d="M6.4 98.3h150.8v210.5H6.4z" class="outline"/>
+
+    <g id="lines_1_">
+      <path d="M69.6 176.1h44v.3h-44zM69.6 207.1h44v.3h-44zM69.6 247h44v.3h-44z" class="st2"/>
+      <path d="M81 154v93.1" class="st5"/>
+    </g>
+  </g>
+    <g data-url="#acsmhDirector"  class="jobRole" >
+      <path d="M28.1 125.2h112v33.1h-112z" class="st0"/>
+      <path class="roleWrapper" d="M25.6 121.9h112V155h-112z"/>
+      <text transform="translate(36.527 135.45)" class="st2 st3 st4">
+        Adult Clinical Services
+      </text>
+      <text transform="translate(33.327 147.45)" class="st2 st3 st4">
+        &amp; Mental Health Director
+      </text>
+    </g>
+    <g class='jobRole' data-url="#acsmhPsychologists">
+      <path d="M15.1 168.8h60.5v16.6H15.1z" class="st0"/>
+      <path class="roleWrapper" d="M13.8 168.8h60.5v14.8H13.8z" class="st2"/>
+      <text transform="translate(22.158 177.778)" class="st6 st3 st7">
+        Psychologist
+      </text>
+
+    </g>
+    <g data-url="#achsmProfCounselor" class="jobRole">
+      <g>
+        <path d="M15.5 198.4H76v25.9H15.5z" class="st0"/>
+        <path class="roleWrapper" d="M13.8 196.1h60.5V222H13.8z" class="st2"/>
+      </g>
+
+        <text transform="translate(22.97 206.323)" class="st6 st3 st7">
+          Professional
+        </text>
+        <text transform="translate(25.072 214.323)" class="st6 st3 st7">
+          Counselors
+        </text>
+
+    </g>
+    <g data-url="#achsmPhysicians" class="jobRole">
+        <path d="M15.5 236.7H76v25.9H15.5z" class="st0"/>
+        <path class="roleWrapper" d="M13.8 234.3h60.5v25.9H13.8z" class="st2"/>
+        <text transform="translate(27.048 248.618)" class="st6 st3 st7">
+          Physicians
+        </text>
+    </g>
+    <g data-url="#achsmNurses" class="jobRole">
+        <path d="M90.1 236.7h60.5v25.9H90.1z" class="st0"/>
+        <path class="roleWrapper" d="M88.4 234.3h60.5v25.9H88.4z" class="st2"/>
+
+
+        <path d="M91.3 238h55.1v23.3H91.3z" class="st8"/>
+        <text transform="translate(102.553 244.002)" class="st6 st3 st7">
+          Treatment
+        </text>
+        <text transform="translate(109.953 253.602)" class="st6 st3 st7">
+          Team
+        </text>
+      </g>
+    </g>
+    <g data-url="#achsmSocialWork" class="jobRole" >
+      <path d="M92.7 198.6h60.5v25.9H92.7z" class="st0"/>
+      <path class="roleWrapper" d="M91 196.2h60.5v25.9H91z" class="st2"/>
+      <g id="social_work_team">
+        <text transform="translate(101.14 206.323)" class="st6 st3 st7">
+          Social Work
+        </text>
+        <text transform="translate(110.94 214.323)" class="st6 st3 st7">
+          Team
+        </text>
+      </g>
+    </g>
+    <g data-url="#achsmPsychiatrist" class="jobRole">
+      <path d="M91.7 168.8h60.5v16.6H91.7z" class="st0"/>
+      <path class="roleWrapper" d="M90.4 168.8h60.5v14.8H90.4z" class="st2"/>
+        <text transform="translate(97.757 177.778)" class="st6 st3 st7">
+          Psychiatrists
+        </text>
+
+    </g>
+    <g data-url="#ACSMH" data-outline="#acsmhOutline" class="departmentTitle">
+      <path d="M22.9 90.5h107.3v22.2H22.9z" class="st10"/>
+        <text transform="translate(33.63 95.63)" class="st2 st3 st4">
+          Adult Clinical Services
+        </text>
+        <text transform="translate(15.03 107.63)" class="st2 st3 st4">
+          and Mental Health Department
+        </text>
+
+    </g>
+  </g>
+  <g>
+    <g id="lines_2_">
+      <path d="M254 144v89M245 185h18" class="st5"/>
+    </g>
+    <g data-url="#financeBussinessOperations" class="jobRole" >
+        <path d="M190.7 171.6h60.5v28.7h-60.5z" class="st0"/>
+        <path class="roleWrapper" d="M189 169h60.5v28.7H189z" class="st2"/>
+        <path d="M188 170h58.8v26H188z" class="st8"/>
+        <text transform="translate(203.11 176)" class="st6 st3 st7">
+          Business
+        </text>
+        <text transform="translate(200.21 185.6)" class="st6 st3 st7">
+          Operations
+        </text>
+        <text transform="translate(200.71 195.2)" class="st6 st3 st7">
+          Supervisor
+        </text>
+
+    </g>
+    <g data-url="#financeAccounts" class="jobRole" >
+
+        <path d="M259.8 171.6H324v28.7h-64.2z" class="st0"/>
+        <path class="roleWrapper" d="M258 169h64.2v28.7H258z" class="st2"/>
+
+
+        <path d="M257 170h65v26h-65z" class="st8"/>
+        <text transform="translate(259.404 176)" class="st6 st3 st7">
+          Accounts Payables
+        </text>
+        <text transform="translate(269.204 185.6)" class="st6 st3 st7">
+          /Receivables
+        </text>
+        <text transform="translate(272.805 195.2)" class="st6 st3 st7">
+          Supervisor
+        </text>
+
+    </g>
+    <g data-url="#financeMedicalRecords" class="jobRole">
+
+          <path d="M227.7 231.6h60.5v31.9h-60.5z" class="st0"/>
+          <path class="roleWrapper" d="M226 229.2h60.5v31.9H226z" class="st2"/>
+
+          <path d="M228.7 231.5h55.1v27.9h-55.1z" class="st8"/>
+          <text transform="translate(230.02 237.54)" class="st6 st3 st7">
+            Medical Records
+          </text>
+          <text transform="translate(234.52 245.54)" class="st6 st3 st7">
+            and Expenses
+          </text>
+          <text transform="translate(244.52 253.54)" class="st6 st3 st7">
+            Analyst
+          </text>
+
+      </g>
+    </g>
+    <path id="outline_1_" d="M181.6 98.3h150.8v210.5H181.6z" class="st9"/>
+    <g  data-url="#financeDirector" class="jobRole">
+      <path d="M203.3 125.2h112v25.1h-112z" class="st0"/>
+      <path class="roleWrapper" d="M200.8 121.9h112V147h-112z"/>
+      <text transform="translate(222.22 137.45)" class="st2 st3 st4">
+        Financial Director
+      </text>
+    </g>
+    <g data-url="#finance" class="departmentTitle">
+      <path d="M206.1 90.5h91.4v22.2h-91.4z" class="st10"/>
+      <g>
+        <text transform="translate(213.142 102.63)" class="st2 st3 st4">
+          Finance Department
+        </text>
+      </g>
+    </g>
+  </g>
+  <g data-url="#execAssistant" class="jobRole">
+
+      <path d="M590.7 44.3h60.5v25.9h-60.5z" class="st0"/>
+      <path class="roleWrapper" d="M589 41.9h60.5v25.9H589z" class="st2"/>
+
+
+      <path d="M591.7 43.2h55.1V67h-55.1z" class="st8"/>
+      <text transform="translate(604.15 49.21)" class="st6 st3 st7">
+        Executive
+      </text>
+      <text transform="translate(596.35 57.21)" class="st6 st3 st7">
+        Administrative
+      </text>
+      <text transform="translate(604.35 65.21)" class="st6 st3 st7">
+        Assistant
+      </text>
+
+  </g>
+  <g>
+    <g id="lines_3_">
+      <path d="M429 145v75M415 182h24M415 220h24" class="st5"/>
+    </g>
+    <g data-url="#itDirector" class="jobRole">
+      <path d="M378.6 125.2h112v25.1h-112z" class="st0"/>
+      <path class="roleWrapper" d="M376.1 121.9h112V147h-112z"/>
+      <text transform="translate(411.397 137.45)" class="st2 st3 st4">
+        IT Director
+      </text>
+    </g>
+    <g data-url="#itInformationTechnician" class="jobRole">
+
+        <path d="M364 208.3h60.5V243H364z" class="st0"/>
+        <path class="roleWrapper" d="M362.3 205.1h60.5v34.7h-60.5z" class="st2"/>
+        <text transform="translate(373.647 214.407)" class="st6 st3 st7">
+          Information
+        </text>
+        <text transform="translate(378.547 224.007)" class="st6 st3 st7">
+          Systems
+        </text>
+        <text transform="translate(374.847 233.607)" class="st6 st3 st7">
+          Technician
+        </text>
+
+    </g>
+    <g data-url="#itInformationanalyst" class="jobRole">
+        <path d="M437.8 171.5h61.5v25.9h-61.5z" class="st0"/>
+        <path class="roleWrapper" d="M436.1 169.1h61.5V195h-61.5z" class="st2"/>
+        <text transform="translate(448.203 179.466)" class="st6 st3 st7">
+          Information
+        </text>
+        <text transform="translate(440.503 187.466)" class="st6 st3 st7">
+          Systems Analyst
+        </text>
+    </g>
+    <g data-url="#itDataCoordinator" class="jobRole">
+          <path d="M363 171.6h60.5v21.9H363z" class="st0"/>
+          <path class="roleWrapper"  d="M361.3 169.2h60.5v21.9h-60.5z" class="st2"/>
+          <text transform="translate(364.663 181.54)" class="st6 st3 st7">
+            Data Coordinator
+          </text>
+    </g>
+    <g>
+      <g data-url="#itNetwork" class="jobRole">
+
+          <path d="M439.3 207.6h60.5v21.9h-60.5z" class="st0"/>
+          <path class="roleWrapper" d="M437.6 205.2h60.5v21.9h-60.5z" class="st2"/>
+
+
+          <text transform="translate(440.306 214.54)" class="st6 st3 st7">
+            Network Systems
+          </text>
+          <text transform="translate(456.106 222.54)" class="st6 st3 st7">
+            Analyst
+          </text>
+
+      </g>
+    </g>
+    <path id="outline_2_" d="M356.9 98.3h150.8v210.5H356.9z" class="st9"/>
+    <g data-url="#itDepartment" class="departmentTitle">
+      <path d="M381.3 90.5h91.4v22.2h-91.4z" class="st10"/>
+
+        <text transform="translate(399.975 102.63)" class="st2 st3 st4">
+          IT Department
+        </text>
+
+    </g>
+  </g>
+  <g>
+    <g id="lines_4_">
+      <path d="M606.5 143.5v110.8M592 181h30M592 219h30" class="st5"/>
+    </g>
+    <g  data-url="#hrDirector" class="departmentTitle" >
+      <path d="M553.9 125.2H670v25.1H553.9z" class="st0"/>
+      <path class="roleWrapper" d="M551.3 121.9h116.1V147H551.3z"/>
+      <text transform="translate(555.34 137.45)" class="st2 st3 st4">
+        Director of Human Services
+      </text>
+    </g>
+
+      <g data-url="#hrBuildingMant" class="jobRole" >
+          <path d="M541.1 208.6h60.5v29.9h-60.5z" class="st0"/>
+          <path class="roleWrapper" d="M539.4 206.2h60.5v29.9h-60.5z" class="st2"/>
+
+          <text transform="translate(556.877 214.224)" class="st6 st3 st7">
+            Building
+          </text>
+          <text transform="translate(542.577 222.224)" class="st6 st3 st7">
+            Maintenance and
+          </text>
+          <text transform="translate(548.177 230.224)" class="st6 st3 st7">
+            Safety Officer
+          </text>
+      </g>
+
+
+      <g data-url="#hrTraining" class="jobRole">
+
+          <path d="M613.1 209.6h60.5v29.9h-60.5z" class="st0"/>
+          <path class="roleWrapper" d="M611.4 207.2h60.5v29.9h-60.5z" class="st2"/>
+
+
+          <text transform="translate(625.653 215.224)" class="st6 st3 st7">
+            Training &amp;
+          </text>
+          <text transform="translate(620.953 223.224)" class="st6 st3 st7">
+            Development
+          </text>
+          <text transform="translate(622.953 231.224)" class="st6 st3 st7">
+            Coordinator
+          </text>
+
+      </g>
+
+    <path id="outline_3_" d="M532.1 98.3h150.8v210.5H532.1z" class="st9"/>
+    <g data-url="#hrDepartment" class="departmentTitle" >
+      <path d="M556.6 90.5H648v22.2h-91.4z" class="st10"/>
+
+        <text transform="translate(567.382 102.63)" class="st2 st3 st4">
+          Human Resources
+        </text>
+
+    </g>
+    <g data-url="#hrPayroll" class="jobRole">
+
+        <path d="M613 171.5h61.5v25.9H613z" class="st0"/>
+        <path class="roleWrapper" d="M611.3 169.1h61.5V195h-61.5z" class="st2"/>
+
+
+        <text transform="translate(618.33 184.466)" class="st6 st3 st7">
+          Payroll Analyst
+        </text>
+
+    </g>
+    <g data-url="#hrRecruitment" class="jobRole" >   <path d="M541.5 171.6H602v24.9h-60.5z" class="st0"/>
+          <path class="roleWrapper" d="M539.8 169.2h60.5v24.9h-60.5z" class="st2"/>
+
+          <text transform="translate(550.984 180.224)" class="st6 st3 st7">
+            Recruitment
+          </text>
+          <text transform="translate(554.684 188.224)" class="st6 st3 st7">
+            Specialist
+          </text>
+
+    </g>
+    <g data-url="#hrCustodian" class="jobRole">
+
+          <path d="M577.5 253.9H638v19.9h-60.5z" class="st0"/>
+          <path class="roleWrapper" d="M575.8 251.5h60.5v19.9h-60.5z" class="st2"/>
+
+          <path d="M575.8 256.3h60.5v10.3h-60.5z" class="st8"/>
+          <text transform="translate(590.11 262.308)" class="st6 st3 st7">
+            Custodian
+          </text>
+
+    </g>
+  </g>
+  <g>
+    <g id="lines_5_">
+      <path d="M780 156v62M760 179h37M760 218h37" class="st5"/>
+    </g>
+    <g data-url="#cbsdDirector" class="jobRole">
+      <path d="M723.8 125.2h112v33.1h-112z" class="st0"/>
+      <path class="roleWrapper"  d="M721.3 121.9h112V155h-112z"/>
+      <text transform="translate(740.25 135.45)" class="st2 st3 st4">
+        Community-Based
+      </text>
+      <text transform="translate(743.75 147.45)" class="st2 st3 st4">
+        Services Director
+      </text>
+    </g>
+    <g data-url="#cbsdResourceSpecialit" class="jobRole">
+
+          <path d="M714.3 205.6h60.5v29.9h-60.5z" class="st0"/>
+          <path class="roleWrapper" d="M712.6 203.2h60.5v29.9h-60.5z" class="st2"/>
+
+          <text transform="translate(724.95 212.224)" class="st6 st3 st7">
+            Community
+          </text>
+          <text transform="translate(726.35 219.224)" class="st6 st3 st7">
+            Resources
+          </text>
+          <text transform="translate(727.45 226.224)" class="st6 st3 st7">
+            Specialist
+          </text>
+
+    </g>
+    <g data-url="#cbsdLiason" class="jobRole">
+                <path d="M788.9 205.6h60.5v29.9h-60.5z" class="st0"/>
+          <path class="roleWrapper"  d="M787.2 203.2h60.5v29.9h-60.5z" class="st2"/>
+
+          <text transform="translate(799.546 212.224)" class="st6 st3 st7">
+            Community
+          </text>
+          <text transform="translate(803.246 219.224)" class="st6 st3 st7">
+            Services
+          </text>
+          <text transform="translate(806.046 226.224)" class="st6 st3 st7">
+            Liaison
+          </text>
+
+    </g>
+    <g>
+      <g data-url="#cbsdLiason" class="jobRole">
+          <path d="M714.3 166.1h60.5V196h-60.5z" class="st0"/>
+          <path class="roleWrapper" d="M712.6 163.7h60.5v29.9h-60.5z" class="st2"/>
+
+          <text transform="translate(722.293 171.694)" class="st6 st3 st7">
+            Home Health
+          </text>
+          <text transform="translate(718.293 179.694)" class="st6 st3 st7">
+            Care Specialist
+          </text>
+          <text transform="translate(733.993 187.694)" class="st6 st3 st7">
+            Team
+          </text>
+
+    </g>
+    <g data-url="#cbsdCommunity" class="jobRole">
+
+          <path d="M788.9 166.1h60.5V196h-60.5z" class="st0"/>
+          <path class="roleWrapper"  d="M787.2 163.7h60.5v29.9h-60.5z" class="st2"/>
+
+          <text transform="translate(799.546 171.694)" class="st6 st3 st7">
+            Community
+          </text>
+          <text transform="translate(803.146 178.694)" class="st6 st3 st7">
+            Outreach
+          </text>
+          <text transform="translate(797.946 185.694)" class="st6 st3 st7">
+            Coordinator
+          </text>
+
+    </g>
+    <path id="outline_4_" d="M707.4 98.3h150.8v210.5H707.4z" class="st9"/>
+    <g data-url="#cbsd" class="departmentTitle">
+      <path d="M722.9 84h116.4v28.7H722.9z" class="st10"/>
+
+        <text transform="translate(724.83 95.63)" class="st2 st3 st4">
+          Community-Based Services
+        </text>
+        <text transform="translate(739.03 107.63)" class="st2 st3 st4">
+          Department (CBSD)
+        </text>
+
+    </g>
+  </g>
+  <g  data-url="#regulatoryDirector" class="jobRole">
+
+      <path d="M899 125.2h112v33.1H899z" class="st0"/>
+      <path class="roleWrapper" d="M896.5 121.9h112V155h-112z"/>
+      <text transform="translate(909.446 135.45)" class="st2 st3 st4">
+        Director of Regulatory
+      </text>
+      <text transform="translate(906.246 147.45)" class="st2 st3 st4">
+        Affairs and Compliance
+      </text>
+    </g>
+    <path id="ouline" d="M882.6 98.3h150.8v210.5H882.6z" class="st9"/>
+    <g data-url="#regulatoryOffice" class="departmentTitle">
+      <path d="M898.1 84h116.4v28.7H898.1z" class="st10"/>
+            <text transform="translate(931.622 95.63)" class="st2 st3 st4">
+          Regulatory
+        </text>
+        <text transform="translate(899.222 107.63)" class="st2 st3 st4">
+          Affairs &amp; Compliance Office
+        </text>
+
+    </g>
+  </g>
+  <g id="conections">
+    <path d="M521 48v27H75v9M521 75h437v9M432.3 75.8v7.7M605.3 75.8v7.7M783.3 75.8v7.7M521 60h68" class="st9"/>
+  </g>
+</svg>

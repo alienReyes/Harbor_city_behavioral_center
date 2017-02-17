@@ -1,0 +1,7 @@
+
+
+@mixin customTransition($property, $timing, $easing) {
+  @include transition-property($property);
+    @include transition-duration( $timing);
+    @include transition-timing-function($easing);
+}

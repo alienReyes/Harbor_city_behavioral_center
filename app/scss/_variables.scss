@@ -17,18 +17,19 @@ $blue: #2176C7;
 $cyan: #259286;
 $green: #738A05;
 
-
-
+//orgColors
+$textColor:#808080;
 /* Colors from Liverpool */
 
 $liverpoolBlue:#083B82;
 
 
 /*Material Colors*/
-$indigo: #3F51B5;
-$orange:#EF6C00;
-$blue:#2196F3;
-$gray:#333;
+$mainColor: #E64030;
+$accent:#3E51B5;
+$text-gray:#808080;
+$orgchartBlue:#0075FF;
+
 
 
 /*Dimensions*/
@@ -38,8 +39,6 @@ $thumbSize:100px;
 
 /* Google Fonts */
 
-@import url(http://fonts.googleapis.com/css?family=Lato:100,400,700,400italic,700italic|Arvo:700|Fjalla+One);
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,400i,700');
 
-$lato: 'Lato', sans-serif;
-$fjalla:'Fjalla One', sans-serif;
-$arvo: 'Arvo', serif;
+$roboto:  'Roboto Condensed', sans-serif;

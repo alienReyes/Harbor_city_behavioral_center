@@ -1,0 +1,307 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="orgchart"   viewBox="0 0 1054 150">
+	<style>
+		.st0{opacity:0.2;enable-background:new ;} .st1{fill:#E64030;} .st2{fill:#FFFFFF;} .st3{font-family:'Roboto Condensed', sans-serif;} .st4{font-size:10.0047px;} .st5{fill:none;stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:10;} .st6{fill:#003B80;} .st7{font-size:8px;} .st8{fill:none;} .st9{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;} .st10{fill:#0075FF;}
+		.outline{fill:#0075FF;stroke:#FFFFFF;stroke-width:1; stroke-miterlimit:10;}
+
+	</style>
+  <g id="executiveDirector">
+    <path d="M468.2 16.3h112v33.1h-112z" class="st0"/>
+    <path d="M465.7 13h112v33.1h-112z" class="st1"/>
+    <text transform="translate(480.84 26.56)">
+      <tspan x="0" y="0" class="st2 st3 st4">Executive Director of </tspan><tspan x="-11.7" y="12" class="st2 st3 st4">Behavioral Health Services</tspan>
+    </text>
+  </g>
+  <g id="lines_1_">
+    <path d="M113.63 176.114v.3h-44v-.3zM113.604 207.086v.3h-44v-.3zM113.56 247.043v.3h-44v-.3z" class="st2"/>
+    <path d="M81 154v93.1" class="st5"/>
+  </g>
+  <g id="group_x5F_title">
+    <path d="M28.1 125.2h112v33.1h-112z" class="st0"/>
+    <path d="M25.6 121.9h112V155h-112z"/>
+    <text transform="translate(35.527 135.45)">
+      <tspan x="0" y="0" class="st2 st3 st4">Adult Clinical Services </tspan><tspan x="-7.8" y="12" class="st2 st3 st4">and Mental Health Director</tspan>
+    </text>
+  </g>
+  <path d="M15.1 168.8h60.5v16.6H15.1z" class="st0"/>
+  <path d="M13.8 168.8h60.5v14.8H13.8z" class="st2"/>
+  <text transform="translate(22.158 177.778)" class="st6 st3 st7">
+    Psychologist
+  </text>
+  <path d="M15.5 198.4H76v25.9H15.5z" class="st0"/>
+  <path d="M13.8 196.1h60.5V222H13.8z" class="st2"/>
+  <text transform="translate(28.735 204.323)">
+    <tspan x="0" y="0" class="st6 st3 st7">Licensed</tspan><tspan x="-5.8" y="8" class="st6 st3 st7">Professional</tspan><tspan x="-3.7" y="16" class="st6 st3 st7">Counselors</tspan>
+  </text>
+  <path d="M15.5 236.7H76v25.9H15.5z" class="st0"/>
+  <path d="M13.8 234.3h60.5v25.9H13.8z" class="st2"/>
+  <path d="M16.5 242.6h55.1v19.3H16.5z" class="st8"/>
+  <text transform="translate(27.048 248.618)" class="st6 st3 st7">
+    Physicians
+  </text>
+  <path d="M90.1 236.7h60.5v25.9H90.1z" class="st0"/>
+  <path d="M88.4 234.3h60.5v25.9H88.4z" class="st2"/>
+  <path d="M91.6 243h55.1v23.3H91.6z" class="st8"/>
+  <text transform="translate(107.985 249)" class="st6 st3 st7">
+    Nurses
+  </text>
+  <g id="social_x5F_work">
+    <path d="M92.7 198.6h60.5v25.9H92.7z" class="st0"/>
+    <path d="M91 196.2h60.5v25.9H91z" class="st2"/>
+    <text id="social_work_team" transform="translate(95.174 206.323)">
+      <tspan x="0" y="0" class="st6 st3 st7">4-Person Social </tspan><tspan x="5.8" y="8" class="st6 st3 st7"> Work Team</tspan>
+    </text>
+  </g>
+  <path d="M91.7 168.8h60.5v16.6H91.7z" class="st0"/>
+  <path d="M90.4 168.8h60.5v14.8H90.4z" class="st2"/>
+  <text transform="translate(97.757 177.778)" class="st6 st3 st7">
+    Psychiatrists
+  </text>
+  <path id="outline" d="M6.4 98.3h150.8v210.5H6.4z" class="st9"/>
+  <g id="title">
+    <path d="M20 88h118.8v26.7H20z" class="st0"/>
+    <path d="M18 86h118.8v26.7H18z" class="st10"/>
+    <text transform="translate(25.186 95.63)">
+      <tspan x="0" y="0" class="st2 st3 st4">Adult Clinical Services and </tspan><tspan x="-.6" y="12" class="st2 st3 st4">Mental Health Department</tspan>
+    </text>
+  </g>
+  <g id="lines_2_">
+    <path d="M254 144v89M245 185h18" class="st5"/>
+  </g>
+  <path d="M190.7 171.6h60.5v28.7h-60.5z" class="st0"/>
+  <path d="M189 169h60.5v28.7H189z" class="st2"/>
+  <path d="M188 170h58.8v26H188z" class="st8"/>
+  <text transform="translate(203.11 176)">
+    <tspan x="0" y="0" class="st6 st3 st7">Business </tspan><tspan x="-2.9" y="9.6" class="st6 st3 st7">Operations </tspan><tspan x="-2.4" y="19.2" class="st6 st3 st7">Supervisor</tspan>
+  </text>
+  <path d="M259.8 171.6H324v28.7h-64.2z" class="st0"/>
+  <path d="M258 169h64.2v28.7H258z" class="st2"/>
+  <path d="M257 170h65v26h-65z" class="st8"/>
+  <text transform="translate(259.404 176)">
+    <tspan x="0" y="0" class="st6 st3 st7">Accounts Payables </tspan><tspan x="9.8" y="9.6" class="st6 st3 st7">/Receivables </tspan><tspan x="13.4" y="19.2" class="st6 st3 st7">Supervisor</tspan>
+  </text>
+  <path d="M227.7 231.6h60.5v31.9h-60.5z" class="st0"/>
+  <path d="M226 229.2h60.5v31.9H226z" class="st2"/>
+  <path d="M228.7 231.5h55.1v27.9h-55.1z" class="st8"/>
+  <text transform="translate(230.02 237.54)">
+    <tspan x="0" y="0" class="st6 st3 st7">Medical Records </tspan><tspan x="4.5" y="8" class="st6 st3 st7">and Expenses </tspan><tspan x="14.5" y="16" class="st6 st3 st7">Analyst</tspan>
+  </text>
+  <path id="outline_1_" d="M181.6 98.3h150.8v210.5H181.6z" class="st9"/>
+  <g id="director">
+    <path d="M203.3 125.2h112v25.1h-112z" class="st0"/>
+    <path d="M200.8 121.9h112V147h-112z"/>
+    <text transform="translate(222.22 137.45)" class="st2 st3 st4">
+      Financial Director
+    </text>
+  </g>
+  <g id="title_1_">
+    <path d="M195.6 88h118.8v26.7H195.6z" class="st0"/>
+    <path d="M193.6 86h118.8v26.7H193.6z" class="st10"/>
+    <text transform="translate(213.142 102.63)" class="st2 st3 st4">
+      Finance Department
+    </text>
+  </g>
+  <path d="M590.7 44.3h60.5v25.9h-60.5z" class="st0"/>
+  <path d="M589 41.9h60.5v25.9H589z" class="st2"/>
+  <path d="M591.7 43.2h55.1V67h-55.1z" class="st8"/>
+  <text transform="translate(604.15 49.21)">
+    <tspan x="0" y="0" class="st6 st3 st7">Executive </tspan><tspan x="-7.8" y="8" class="st6 st3 st7">Administrative </tspan><tspan x=".2" y="16" class="st6 st3 st7">Assistant</tspan>
+  </text>
+  <g id="lines_3_">
+    <path d="M429 145v75M415 182h24M415 220h24" class="st5"/>
+  </g>
+  <g id="director_1_">
+    <path d="M378.6 125.2h112v25.1h-112z" class="st0"/>
+    <path d="M376.1 121.9h112V147h-112z"/>
+    <text transform="translate(411.397 137.45)" class="st2 st3 st4">
+      IT Director
+    </text>
+  </g>
+  <path d="M364 205.3h60.5V240H364z" class="st0"/>
+  <path d="M362.3 202.1h60.5v34.7h-60.5z" class="st2"/>
+  <path d="M359 205.4h66.1V236H359z" class="st8"/>
+  <text transform="translate(373.647 211.407)">
+    <tspan x="0" y="0" class="st6 st3 st7">Information </tspan><tspan x="4.9" y="9.6" class="st6 st3 st7">Systems </tspan><tspan x="1.2" y="19.2" class="st6 st3 st7">Technician</tspan>
+  </text>
+  <g>
+    <path d="M438.8 205.5h61.5v25.9h-61.5z" class="st0"/>
+    <path d="M437.1 203.1h61.5V229h-61.5z" class="st2"/>
+    <g>
+      <path d="M439.6 207.5h56V229h-56z" class="st8"/>
+      <text transform="translate(449.203 213.466)">
+        <tspan x="0" y="0" class="st6 st3 st7">Information </tspan><tspan x="-7.7" y="8" class="st6 st3 st7">Systems Analyst</tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <path d="M363 171.6h60.5v21.9H363z" class="st0"/>
+    <path d="M361.3 169.2h60.5v21.9h-60.5z" class="st2"/>
+    <g>
+      <path d="M364 175.5h55.1v8.6H364z" class="st8"/>
+      <text transform="translate(364.663 181.54)" class="st6 st3 st7">
+        Data Coordinator
+      </text>
+    </g>
+  </g>
+  <g>
+    <path d="M440.3 171.6h60.5v21.9h-60.5z" class="st0"/>
+    <path d="M438.6 169.2h60.5v21.9h-60.5z" class="st2"/>
+    <g>
+      <path d="M441.3 172.5h55.1v17.9h-55.1z" class="st8"/>
+      <text transform="translate(441.306 178.54)">
+        <tspan x="0" y="0" class="st6 st3 st7">Network Systems </tspan><tspan x="15.8" y="8" class="st6 st3 st7">Analyst</tspan>
+      </text>
+    </g>
+  </g>
+  <path id="outline_2_" d="M356.9 98.3h150.8v210.5H356.9z" class="st9"/>
+  <g id="it-department">
+    <path d="M373.9 88h118.8v26.7H373.9z" class="st0"/>
+    <path d="M371.9 86h118.8v26.7H371.9z" class="st10"/>
+    <text transform="translate(403.21 102.63)" class="st2 st3 st4">
+      IT Department
+    </text>
+  </g>
+  <g id="lines_4_">
+    <path d="M606.5 143.5v110.8M592 181h30M592 219h30" class="st5"/>
+  </g>
+  <g>
+    <path d="M541.1 208.6h60.5v29.9h-60.5z" class="st0"/>
+    <path d="M539.4 206.2h60.5v29.9h-60.5z" class="st2"/>
+    <g>
+      <path d="M539.4 208.2h60.5v25.1h-60.5z" class="st8"/>
+      <text transform="translate(556.877 214.224)">
+        <tspan x="0" y="0" class="st6 st3 st7">Building </tspan><tspan x="-14.3" y="8" class="st6 st3 st7">Maintenance and </tspan><tspan x="-8.9" y="16" class="st6 st3 st7">Safety Officer</tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <path d="M613.1 209.6h60.5v29.9h-60.5z" class="st0"/>
+    <path d="M611.4 207.2h60.5v29.9h-60.5z" class="st2"/>
+    <g>
+      <path d="M611.4 209.2h60.5v25.1h-60.5z" class="st8"/>
+      <text transform="translate(625.653 215.224)">
+        <tspan x="0" y="0" class="st6 st3 st7">Training &amp; </tspan><tspan x="-4.7" y="8" class="st6 st3 st7">Development </tspan><tspan x="-2.7" y="16" class="st6 st3 st7">Coordinator</tspan>
+      </text>
+    </g>
+  </g>
+  <path id="outline_3_" d="M532.1 98.3h150.8v210.5H532.1z" class="st9"/>
+  <g id="director_2_">
+    <path d="M554.8 125.2h112v33.1h-112z" class="st0"/>
+    <path d="M552.3 121.9h112V155h-112z"/>
+    <text transform="translate(586.214 135.45)">
+      <tspan x="0" y="0" class="st2 st3 st4">Director of </tspan><tspan x="-15" y="12" class="st2 st3 st4">Human Resources</tspan>
+    </text>
+  </g>
+  <g id="titleHR">
+    <path d="M546.9 88h118.8v26.7H546.9z" class="st0"/>
+    <path d="M544.9 86h118.8v26.7H544.9z" class="st10"/>
+    <text transform="translate(573.32 102.63)" class="st2 st3 st4">
+      HR Department
+    </text>
+  </g>
+  <g>
+    <path d="M613 171.5h61.5v25.9H613z" class="st0"/>
+    <path d="M611.3 169.1h61.5V195h-61.5z" class="st2"/>
+    <g>
+      <path d="M613.8 178.5h56V200h-56z" class="st8"/>
+      <text transform="translate(618.33 184.466)" class="st6 st3 st7">
+        Payroll Analyst
+      </text>
+    </g>
+  </g>
+  <g>
+    <path d="M541.5 171.6H602v24.9h-60.5z" class="st0"/>
+    <path d="M539.8 169.2h60.5v24.9h-60.5z" class="st2"/>
+    <g>
+      <path d="M539.8 174.2h60.5v19.2h-60.5z" class="st8"/>
+      <text transform="translate(550.984 180.224)">
+        <tspan x="0" y="0" class="st6 st3 st7">Recruitment </tspan><tspan x="3.7" y="8" class="st6 st3 st7">Specialist</tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <path d="M577.5 253.9H638v19.9h-60.5z" class="st0"/>
+    <path d="M575.8 251.5h60.5v19.9h-60.5z" class="st2"/>
+    <g>
+      <path d="M575.8 256.3h60.5v10.3h-60.5z" class="st8"/>
+      <text transform="translate(590.11 262.308)" class="st6 st3 st7">
+        Custodian
+      </text>
+    </g>
+  </g>
+  <g id="lines_5_">
+    <path d="M780 156v62M760 179h37M760 218h37" class="st5"/>
+  </g>
+  <g>
+    <path d="M714.3 205.6h60.5v29.9h-60.5z" class="st0"/>
+    <path d="M712.6 203.2h60.5v29.9h-60.5z" class="st2"/>
+    <g>
+      <path d="M712.6 206.2h60.5v25.1h-60.5z" class="st8"/>
+      <text transform="translate(724.95 212.224)">
+        <tspan x="0" y="0" class="st6 st3 st7">Community </tspan><tspan x="1.4" y="7" class="st6 st3 st7">Resources </tspan><tspan x="2.5" y="14" class="st6 st3 st7">Specialist</tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <path d="M788.9 205.6h60.5v29.9h-60.5z" class="st0"/>
+    <path d="M787.2 203.2h60.5v29.9h-60.5z" class="st2"/>
+    <g>
+      <path d="M787.2 206.2h60.5v25.1h-60.5z" class="st8"/>
+      <text transform="translate(799.546 212.224)">
+        <tspan x="0" y="0" class="st6 st3 st7">Community </tspan><tspan x="3.7" y="7" class="st6 st3 st7"> Services </tspan><tspan x="6.5" y="14" class="st6 st3 st7">Liaison</tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <path d="M714.3 166.1h60.5V196h-60.5z" class="st0"/>
+    <path d="M712.6 163.7h60.5v29.9h-60.5z" class="st2"/>
+    <g>
+      <path d="M712.6 165.7h60.5v25.1h-60.5z" class="st8"/>
+      <text transform="translate(722.293 171.694)">
+        <tspan x="0" y="0" class="st6 st3 st7">Home Health </tspan><tspan x="-4" y="8" class="st6 st3 st7"> Care Specialist </tspan><tspan x="11.7" y="16" class="st6 st3 st7">Team</tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <path d="M788.9 166.1h60.5V196h-60.5z" class="st0"/>
+    <path d="M787.2 163.7h60.5v29.9h-60.5z" class="st2"/>
+    <g>
+      <path d="M787.2 165.7h60.5v27.9h-60.5z" class="st8"/>
+      <text transform="translate(799.546 171.694)">
+        <tspan x="0" y="0" class="st6 st3 st7">Community </tspan><tspan x="3.6" y="7" class="st6 st3 st7">Outreach </tspan><tspan x="-1.6" y="14" class="st6 st3 st7"> Coordinator</tspan>
+      </text>
+    </g>
+  </g>
+  <path id="outline_4_" d="M707.4 98.3h150.8v210.5H707.4z" class="st9"/>
+  <g id="director_3_">
+    <path d="M723.8 125.2h112v33.1h-112z" class="st0"/>
+    <path d="M721.3 121.9h112V155h-112z"/>
+    <text transform="translate(740.25 135.45)">
+      <tspan x="0" y="0" class="st2 st3 st4">Community-Based </tspan><tspan x="3.5" y="12" class="st2 st3 st4">Services Director</tspan>
+    </text>
+  </g>
+  <g id="title_cbsd">
+    <path d="M724.9 88h118.8v26.7H724.9z" class="st0"/>
+    <path d="M722.9 86h118.8v26.7H722.9z" class="st10"/>
+    <text transform="translate(724.83 95.63)">
+      <tspan x="0" y="0" class="st2 st3 st4">Community-Based Services </tspan><tspan x="14.2" y="12" class="st2 st3 st4"> Department (CBSD)</tspan>
+    </text>
+  </g>
+  <g id="director_4_">
+    <path d="M899 125.2h112v33.1H899z" class="st0"/>
+    <path d="M896.5 121.9h112V155h-112z"/>
+    <text transform="translate(909.446 135.45)">
+      <tspan x="0" y="0" class="st2 st3 st4">Director of Regulatory </tspan><tspan x="-3.2" y="12" class="st2 st3 st4">Affairs and Compliance</tspan>
+    </text>
+  </g>
+  <path id="ouline" d="M882.6 98.3h150.8v210.5H882.6z" class="st9"/>
+  <g id="title_5_">
+    <path d="M899.6 88h118.8v26.7H899.6z" class="st0"/>
+    <path d="M897.6 86h118.8v26.7H897.6z" class="st10"/>
+    <text transform="translate(909.788 95.63)">
+      <tspan x="0" y="0" class="st2 st3 st4">Regulatory Affairs and </tspan><tspan x="7.5" y="12" class="st2 st3 st4">Compliance Office</tspan>
+    </text>
+  </g>
+  <g id="conecttions">
+    <path d="M521 48v27H75v9M521 75h437v9M432.3 75.8v7.7M252.8 75.8v7.7M605.3 75.8v7.7M783.3 75.8v7.7M521 60h68" class="st9"/>
+  </g>
+</svg>

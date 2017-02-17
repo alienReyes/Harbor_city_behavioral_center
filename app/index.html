@@ -3,22 +3,41 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Perro loco</title>
+  <title>Harbor City</title>
+
   <!--build:css css/style.min.css-->
   <!-- bower:css -->
-  <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.css" />
   <link rel="stylesheet" href="bower_components/leaflet/dist/leaflet.css" />
   <!-- endbower -->
 <link rel="stylesheet" href="css/style.css">
   <!--endbuild-->
+
+
 </head>
 
 <body>
 
+  <div id="map">
+  </div>
+  <div class="main-title">
+    <h1>Harbor City</h1>
+  </div>
+
+<button type="button" class="btn btn-danger closeBtn">Close</button>
 
 
 
-    </div> <!-- /container -->
+
+<aside class="pannel-side pannel-side__closed">
+  <div id="accordion" role="tablist" aria-multiselectable="true">
+</div>
+  </aside>
+
+  <iframe  class="extContainer" src="" frameborder="0"></iframe>
+
+
+
+   <!-- /container -->
 
 
 
@@ -31,9 +50,40 @@
     <script src="bower_components/jquery.easing/js/jquery.easing.js"></script>
     <script src="bower_components/leaflet/dist/leaflet-src.js"></script>
     <!-- endbower -->
+    <script src="js/svg4everybody.js"></script>
+
     <script src="js/main.js"></script>
     <!-- endbuild -->
 
+
+    <script>   svg4everybody();</script>
+
+        <script id="templatePanel" type="text/template">
+            {{#markers}}
+            <div class="card">
+              <div class="card-header" role="tab" id="headingOne">
+                <h5 class="mb-0">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#{{id}}" aria-expanded="true" aria-controls="{{id}}" data-xpos="{{xPos}}" data-id="{{id}}" data-ypos="{{yPos}}">
+                    {{title}}
+                  </a>
+                </h5>
+              </div>
+
+              <div id="{{id}}" class="collapse" role="tabpanel" aria-labelledby="headingOne">
+                <div class="card-block">
+              <ul class="items--list">
+                {{#items}}
+                      <li class="item" data-type="{{type}}" data-url={{url}} data-iframe="{{iframe}}">
+                         <svg role="img" title="{{itemImage}}">
+    <use class="iconCont" xlink:href="images/icons.svg#{{type}}"/>
+</svg>  <p>{{name}}</p></li>
+                {{/items}}
+              </ul>
+                </div>
+              </div>
+            </div>
+            {{/markers}}
+        </script>
 
 
 
