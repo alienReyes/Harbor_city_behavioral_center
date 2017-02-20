@@ -6159,10 +6159,10 @@ html {
   color: #808080;
 }
 .items--list .item:hover p {
-  color: #0075FF;
+  color: #183F63;
 }
 .items--list .item:hover svg {
-  fill: #0075FF;
+  fill: #183F63;
 }
 
 .extContainer {
@@ -6191,7 +6191,8 @@ html {
   display: inline-block;
   position: relative;
   width: 100%;
-  background-color: #0075FF;
+  height: 100%;
+  background-color: #183F63;
 }
 .org-chart-cont img {
   position: absolute;
@@ -6203,8 +6204,7 @@ html {
 }
 
 .orgChart {
-  width: 100%;
-  background-color: #0075FF;
+  background-color: #183F63;
 }
 
 .jobRole, .director {
@@ -6232,6 +6232,9 @@ html {
 .orgchart-text {
   margin-top: 0px;
   padding-bottom: 25px;
+  display: none;
+  width: 100%;
+  height: 100%;
 }
 .orgchart-text figure {
   float: left;
@@ -6248,8 +6251,7 @@ html {
 }
 
 .text-body {
-  padding-bottom: 30px;
-  max-height: 55vh;
+  display: none;
   overflow-y: scroll !important;
 }
 .text-body h1 {
@@ -6281,4 +6283,19 @@ html {
   filter: drop-shadow(-5px -5px 5px #000);
   /* Same syntax as box-shadow, except
   for the spread property */
+}
+
+.close {
+  /* float: right; */
+  font-size: 3.5rem;
+  font-weight: bold;
+  line-height: 1;
+  background-color: red;
+  color: #c9302c;
+  text-shadow: 0 1px 0 #fff;
+  opacity: 1.2;
+  position: absolute;
+  right: 15px;
+  top: -9px;
+  z-index: 8000;
 }

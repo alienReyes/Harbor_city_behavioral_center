@@ -5,7 +5,7 @@
 
 
 $(window).resize(function(){
-  resizeSvg();
+//  resizeSvg();
   panZoom.resize();
   panZoom.fit();
   panZoom.center();
@@ -82,7 +82,7 @@ eventsHandler = {
 
 
 $( document ).ready(function() {
-resizeSvg();
+//resizeSvg();
 var panZoom = window.panZoom =  svgPanZoom('.orgchart', {
     zoomEnabled: true,
     controlIconsEnabled: true,
@@ -94,7 +94,6 @@ var panZoom = window.panZoom =  svgPanZoom('.orgchart', {
   panZoom.resize();
   panZoom.fit();
   panZoom.center();
-
     $('.roleWrapper').attr("fill","#3d3d3d");
 
 
@@ -143,18 +142,18 @@ $('body').on('click', '.departmentTitle', function(e){
 });
 
 
-$('body').on('click', '.menuItem', function(e){
-  $('.menuItem').removeClass('selected');
-  var url=$(this).data('url');
-var gColor=  $("g[data-url='" +url +"']");
-  $(this).toggleClass('selected');
-  resetColors ();
-var fillTgt=  $(".orgchart").find("[data-url='" + url + "']");
-fillTgt.children('.roleWrapper').attr("fill","#E74700");
-fillTgt.children('text').attr("color","#FFF");
-  scrollText(url);
-
-});
+// $('body').on('click', '.menuItem', function(e){
+//   $('.menuItem').removeClass('selected');
+//   var url=$(this).data('url');
+// var gColor=  $("g[data-url='" +url +"']");
+//   $(this).toggleClass('selected');
+//   resetColors ();
+// var fillTgt=  $(".orgchart").find("[data-url='" + url + "']");
+// fillTgt.children('.roleWrapper').attr("fill","#E74700");
+// fillTgt.children('text').attr("color","#FFF");
+//   scrollText(url);
+//
+// });
 
 
 
@@ -163,10 +162,19 @@ $('body').on('click', '.jobRole', function(e){
   var url=$(this).data('url');
   $(this).children('.roleWrapper').attr("fill","#E74700");
   $(this).children('text').attr("color","#FFF");
-  scrollText(url);
+  //scrollText(url);
+  showInfo (url)
 
 
 });
+
+function showInfo (url){
+  $('.modal-body').html(null);
+  var content = $(url).html();
+  console.log (content)
+  $('.modal-body').html(content);
+  $('#contentModal').modal('show');
+}
 
 
 function scrollText(url)
