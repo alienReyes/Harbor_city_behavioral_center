@@ -55,38 +55,37 @@
     </g>
     <g data-url="#achsmPhysicians" class="jobRole">
         <path d="M15.5 212.7H76v25.9H15.5z" class="st1"/>
-        <path lass="roleWrapper"  d="M13.8 210.3h60.5v25.9H13.8z" class="st3"/>
+        <path class="roleWrapper"  d="M13.8 210.3h60.5v25.9H13.8z" class="st3"/>
 
-      
+
         <text transform="translate(27.048 224.618)" class="st7 st4 st8">
           Physicians
         </text>
 
     </g>
-    <g>
-      <g>
+    <g data-url="#achsmNurses" class="jobRole">
+      <g >
         <path d="M90.1 212.7h60.5v25.9H90.1z" class="st1"/>
-        <path d="M88.4 210.3h60.5v25.9H88.4z" class="st3"/>
+        <path class="roleWrapper"  d="M88.4 210.3h60.5v25.9H88.4z" class="st3"/>
       </g>
       <g>
-        <path d="M91.6 219h55.1v23.3H91.6z" class="st9"/>
         <text transform="translate(107.985 225)" class="st7 st4 st8">
           Nurses
         </text>
       </g>
     </g>
-    <g id="social_x5F_work">
+    <g data-url="#achsmSocialWork" class="jobRole">
       <path d="M92.7 174.6h60.5v25.9H92.7z" class="st1"/>
-      <path d="M91 172.2h60.5v25.9H91z" class="st3"/>
+      <path class="roleWrapper"  d="M91 172.2h60.5v25.9H91z" class="st3"/>
       <g id="social_work_team">
         <text transform="translate(95.174 182.323)">
           <tspan x="0" y="0" class="st7 st4 st8">4-Person Social </tspan><tspan x="5.8" y="8" class="st7 st4 st8"> Work Team</tspan>
         </text>
       </g>
     </g>
-    <g>
+    <g data-url="#achsmPsychiatrist" class="jobRole">
       <path d="M91.7 144.8h60.5v16.6H91.7z" class="st1"/>
-      <path d="M90.4 144.8h60.5v14.8H90.4z" class="st3"/>
+      <path id="social_work_team" d="M90.4 144.8h60.5v14.8H90.4z" class="st3"/>
       <g>
         <text transform="translate(97.757 153.778)" class="st7 st4 st8">
           Psychiatrists
@@ -96,12 +95,12 @@
     <g id="lines_2_">
       <path d="M254 120v89M245 161h18" class="st6"/>
     </g>
-    <g>
+    <g data-url="#financeBussinessOperations">
       <g>
         <path d="M190.7 147.6h60.5v28.7h-60.5z" class="st1"/>
-        <path d="M189 145h60.5v28.7H189z" class="st3"/>
+        <path class="roleWrapper" d="M189 145h60.5v28.7H189z" class="st3"/>
       </g>
-      <g>
+      <g  class="jobRole" >
         <path d="M188 146h58.8v26H188z" class="st9"/>
         <text transform="translate(203.11 152)">
           <tspan x="0" y="0" class="st7 st4 st8">Business </tspan><tspan x="-2.9" y="9.6" class="st7 st4 st8">Operations </tspan><tspan x="-2.4" y="19.2" class="st7 st4 st8">Supervisor</tspan>

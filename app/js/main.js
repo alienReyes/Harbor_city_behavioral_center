@@ -8,7 +8,7 @@ function init() {
    attributionControl: false,
         minZoom:0,
         maxZoom:2,
-        zoom:0,
+        zoom:1,
          zoomControl: false,
         crs: L.CRS.Simple
     }).setView([-450, 912], 1);
@@ -21,6 +21,11 @@ function init() {
   var bounds = new L.LatLngBounds(southWest, northEast);
   L.imageOverlay(url, bounds).addTo(map);
   map.setMaxBounds(bounds);
+  map.dragging.disable();
+   map.touchZoom.disable();
+   map.doubleClickZoom.disable();
+   map.scrollWheelZoom.disable();
+
 }
 
 
@@ -35,10 +40,13 @@ $( document ).ready(function() {
       var xPos= data.markers[i].xPos;
       var yPos= data.markers[i].yPos;
       var id= data.markers[i].id;
-       createMarker(xPos, yPos,id);
+       //createMarker(xPos, yPos,id);
     }
   }).done(function() {
-    console.log ('json ready')
+    console.log ('json ready');
+    $('#healthCenter').collapse('toggle');
+     $('.pannel-side').toggleClass('pannel-side__closed')
+
   })
 
 

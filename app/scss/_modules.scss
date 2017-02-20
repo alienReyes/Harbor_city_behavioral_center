@@ -8,10 +8,17 @@
   background-color:$orgchartBlue;
   img {
     position: absolute;
-    width: 100px;
+    width: 150px;
     height: auto;
-    bottom:0;
+    bottom:35px;
     left: 15px;
+    z-index: 5000;
+  }
+  .btn {
+    position: absolute;
+
+    bottom:15px;
+    left:50%;
     z-index: 5000;
   }
 }
@@ -59,46 +66,54 @@
   height: 100%;
 
 
-   figure {
-      float:left;
-      figcaption {
-        float:right;
-        h4 {font-size: 1.2 rem;
-        font-weight: bold;
-      }
-        h5 {font-size: 1.2rem
-        }
 
-      }
-
-   }
 }
+.figure-img {
+  float: right!important;
+}
+.modal-body{
+  figure {
+     float:left;
+     img {
+
+     }
+     figcaption {
+       float:left;
+       h4 {font-size: 1.2 rem;
+       font-weight: bold;
+     }
+       h5 {font-size: 1.2rem
+       }
+
+     }
+
+  }
+  h1 {
+    font-family: $roboto;
+    font-size: 2rem;
+    text-align: center;
+    color: $mainColor;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+  }
+  h2 {
+    font-family: $roboto;
+    font-size: 1.5rem;
+    text-align: left;
+
+  }
+  h3 {
+    font-family: $roboto;
+    font-size: 1.2rem;
+    text-align: left;
+    font-weight: 300;
+  }
+}
+
+
 .text-body {
  display: none;
    overflow-y: scroll!important;  //code added
- h1 {
-   font-family: $roboto;
-   font-size: 2rem;
-   text-align: center;
-   color: $mainColor;
-   margin-bottom: 1.5rem;
-   margin-top: 1.5rem;
- }
- h2 {
-   font-family: $roboto;
-   font-size: 1.5rem;
-   text-align: left;
-
- }
- h3 {
-   font-family: $roboto;
-   font-size: 1.2rem;
-   text-align: left;
-   font-weight: 300;
-
- }
-
-
 }
 
 .departmentTitle {
@@ -116,7 +131,6 @@
     font-size: 3.5rem;
     font-weight: bold;
     line-height: 1;
-    background-color: red;
     color: #c9302c;
     text-shadow: 0 1px 0 #fff;
     opacity: 1.2;
