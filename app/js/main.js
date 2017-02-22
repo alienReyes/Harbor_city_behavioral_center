@@ -8,7 +8,7 @@ function init() {
    attributionControl: false,
         minZoom:0,
         maxZoom:2,
-        zoom:1,
+        zoom:-1,
          zoomControl: false,
         crs: L.CRS.Simple
     }).setView([-450, 912], 1);
